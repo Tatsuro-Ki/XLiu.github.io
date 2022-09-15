@@ -12,6 +12,6 @@
 
 ## Gradient Boosting Decison Tree (LightGBM)-based solutions
 + **Input:**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codecogs.com/eqnedit.php?latex=\underline{x}=(a/b,w/b,L_0/b,L_1/b)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\underline{x}=(a/b,w/b,L_0/b,L_1/b)" title="\underline{x}=(a/b,w/b,L_0/b,L_1/b)" /></a>
+
 
 + **Output:** 
